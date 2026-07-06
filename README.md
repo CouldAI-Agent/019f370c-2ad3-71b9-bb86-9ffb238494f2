@@ -1,9 +1,9 @@
-# Murder Case References
+# Bangladeshi Murder Case References
 
-A Flutter application providing a catalog of famous murder case references, including detailed summaries, official citations, trial locations, and final verdicts. 
+A Flutter application providing a catalog of famous Bangladeshi murder case references, including detailed summaries, official citations, trial locations, and final verdicts. 
 
 ## Features
-- **Case Listing:** Scrollable list of prominent historical and modern murder cases.
+- **Case Listing:** Scrollable list of prominent and notable Bangladeshi murder cases, such as Sagar-Runi, Nusrat Jahan Rafi, and Abrar Fahad.
 - **Detailed Case Views:** In-depth information including citation, year, location, summary, and verdict.
 - **Responsive Layout:** Automatically adapts between a mobile list-detail flow and a side-by-side desktop/tablet view.
 - **Cross-Platform:** Runs natively on iOS, Android, Web, and Desktop.
